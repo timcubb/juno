@@ -9,8 +9,6 @@ type Node struct {
     Port int
     App string
     Status string
-	//StartTime string
-	//EndTime string
 }
 
 type System struct {

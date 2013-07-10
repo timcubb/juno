@@ -3,6 +3,7 @@ package main
 import(
 	"fmt"
 	"github.com/timcubb/juno/system"
+    "github.com/timcubb/juno/deploy"
 	)
 
 
